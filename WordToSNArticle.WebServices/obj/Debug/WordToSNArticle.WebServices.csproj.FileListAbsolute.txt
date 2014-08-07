@@ -1,0 +1,1 @@
+c:\users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.WebServices\bin\Debug\WordToSNArticle.WebServices.exe.config

@@ -1,0 +1,17 @@
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\WordToSNArticle.exe.config
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\WordToSNArticle.exe
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\WordToSNArticle.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\WordToSNArticle.Utilities.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\WordToSNArticle.Domain.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\WordToSNArticle.Utilities.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\WordToSNArticle.Domain.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Debug\WordToSNArticle.csprojResolveAssemblyReference.cache
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Debug\WordToSNArticle.exe
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Debug\WordToSNArticle.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\WordToSNArticle.exe.manifest
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Debug\WordToSNArticle.application
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Debug\WordToSNArticle.exe.manifest
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Debug\WordToSNArticle.application

@@ -1,0 +1,4 @@
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.Domain\bin\Release\WordToSNArticle.Domain.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.Domain\bin\Release\WordToSNArticle.Domain.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.Domain\obj\Release\WordToSNArticle.Domain.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.Domain\obj\Release\WordToSNArticle.Domain.pdb

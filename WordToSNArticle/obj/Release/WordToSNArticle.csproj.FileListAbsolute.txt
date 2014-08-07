@@ -1,0 +1,34 @@
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.exe.config
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.exe.manifest
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.application
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.exe
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.Utilities.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\HtmlAgilityPack.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.Domain.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.Utilities.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\HtmlAgilityPack.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\HtmlAgilityPack.xml
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.Domain.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.csprojResolveAssemblyReference.cache
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.exe.manifest
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.application
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.exe
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.pdb
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.exe.config
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.exe
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.pdb
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.exe.manifest
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.application
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.exe
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.pdb
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.Utilities.dll
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\HtmlAgilityPack.dll
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.Domain.dll
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.Utilities.pdb
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\HtmlAgilityPack.pdb
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\HtmlAgilityPack.xml
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\bin\Release\WordToSNArticle.Domain.pdb
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.csprojResolveAssemblyReference.cache
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.exe.manifest
+C:\Users\mmoody\Source\Repos\WordToSNArticle\WordToSNArticle\obj\Release\WordToSNArticle.application

@@ -1,0 +1,5 @@
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.Domain\bin\Debug\WordToSNArticle.Domain.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.Domain\bin\Debug\WordToSNArticle.Domain.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.Domain\obj\Debug\WordToSNArticle.Domain.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.Domain\obj\Debug\WordToSNArticle.Domain.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.Domain\obj\Debug\WordToSNArticle.Domain.csprojResolveAssemblyReference.cache

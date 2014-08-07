@@ -1,0 +1,6 @@
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.SNConnection\bin\Debug\WordToSNArticle.SNConnection.dll.config
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.SNConnection\bin\Debug\WordToSNArticle.SNConnection.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.SNConnection\bin\Debug\WordToSNArticle.SNConnection.pdb
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.SNConnection\obj\Debug\WordToSNArticle.SNConnection.csprojResolveAssemblyReference.cache
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.SNConnection\obj\Debug\WordToSNArticle.SNConnection.dll
+C:\Users\mmoody\documents\visual studio 2013\Projects\WordToSNArticle\WordToSNArticle.SNConnection\obj\Debug\WordToSNArticle.SNConnection.pdb
